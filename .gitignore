@@ -1,3 +1,5 @@
 bin/configlet
 bin/configlet.exe
-.paket/paket.exe
+
+packages/
+.fake-xfsharp/.paket/paket.exe

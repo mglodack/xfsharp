@@ -1,0 +1,5 @@
+source https://nuget.org/api/v2
+
+nuget FAKE
+nuget nunit 2.6.4
+nuget NUnitTestAdapter 2.0.0
